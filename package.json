@@ -2,9 +2,9 @@
   "name": "mosbirja",
   "version": "1.0.0",
   "description": "moskov birja api for get currencies",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Abdulhafiz Dadoboev",
   "license": "ISC",
